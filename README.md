@@ -1,2 +1,2 @@
 "# EntityFramework-LINQ" 
-"# EntityFramework kullanarak LINQ sorgularıyla veritabanına veri kaydetme."
+"# EntityFramework kullanarak LINQ sorgulama dili ile veritabanına veri kaydetme."
